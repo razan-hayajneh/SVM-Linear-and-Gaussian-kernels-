@@ -7,4 +7,4 @@ when implementing with linear kernel the best value for C = 20 for my dataset, b
 
 
 
-when implementing with Gaussian kernel the best value for gamma = 1000 for my dataset, and the result is perfect (without error), so the best SVM model for SVM dataset file by using Gaussian Kernel with gamma = 1000
+when implementing with Gaussian kernel the best value for C = 20 and gamma = 100 for my dataset, and the result is perfect (without error), so the best SVM model for SVM dataset file by using Gaussian Kernel with C = 20 and gamma = 100
